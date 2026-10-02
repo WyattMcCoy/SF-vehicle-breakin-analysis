@@ -1,0 +1,21 @@
+{
+  "cell_size_ft": 1000,
+  "hexagons": 1673,
+  "incidents_last_12_mapped": 3631,
+  "hot_hexes_95_last": 182,
+  "hot_hexes_95_prior": 186,
+  "hot_hexes_fdr_last": 125,
+  "hot_share_of_city_area_pct": 10.9,
+  "hot_share_of_incidents_pct": 49.0,
+  "persistent": 154,
+  "new": 28,
+  "no_longer_hot": 32,
+  "zones": 4,
+  "cold_hexes_95_last": 0,
+  "sensitivity": {
+    "500ft_pct_of_1000ft_hot_area_also_hot": 57.1,
+    "500ft_hot_hexes": 471,
+    "1500ft_pct_of_1000ft_hot_area_also_hot": 90.9,
+    "1500ft_hot_hexes": 92
+  }
+}
