@@ -15,7 +15,7 @@ AI tools wrote the code for this project. I made the design decisions and review
 | File | What it does |
 |---|---|
 | `sfpd_analysis.py` | Downloads, cleans, and analyzes the data; writes charts, tables, `summary.json`, and a point layer for GIS |
-| `queries.sql` | The same analysis in SQL (DuckDB) |
+| `queries.sql` | The same analysis in SQL (DuckDB). Included, but not run. |
 | `hotspot_gi.py` | Gi* hot spot analysis in Python, if the QGIS plugin gives you trouble |
 | `hotspot_analysis.py` | Full hot spot workflow used for the bulletin: Gi* for both periods, change classes, sensitivity check, map |
 | `bulletin_chart.py` | Annotated trend chart used in the bulletin |
