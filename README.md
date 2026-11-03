@@ -8,7 +8,7 @@ AI tools wrote the code for this project. I made the design decisions and review
 
 **Data:** [Police Department Incident Reports: 2018 to Present](https://data.sf.gov/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), DataSF
 **Focus:** Larceny from vehicles (car break-ins). Change `--subcategory` to study something else.
-**Tools:** Python (pandas, statsmodels, scipy), DuckDB SQL, QGIS or ArcGIS Pro
+**Tools:** Python (pandas, statsmodels, scipy), QGIS or ArcGIS Pro
 
 ## Files
 
