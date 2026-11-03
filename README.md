@@ -4,6 +4,8 @@ A crime analysis portfolio project using public SFPD incident data. It produces 
 Getis-Ord Gi* hot spot map, a statistical trend analysis, and a two-page
 intelligence bulletin.
 
+AI tools wrote the code for this project. I made the design decisions and reviewed the results.
+
 **Data:** [Police Department Incident Reports: 2018 to Present](https://data.sf.gov/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783), DataSF
 **Focus:** Larceny from vehicles (car break-ins). Change `--subcategory` to study something else.
 **Tools:** Python (pandas, statsmodels, scipy), DuckDB SQL, QGIS or ArcGIS Pro
